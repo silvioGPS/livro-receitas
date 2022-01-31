@@ -1,8 +1,12 @@
-#Livro de Receitas :grinning:
+# Livro de Receitas :grinning:
 
 Olá! Bem-vindo ao meu livro de receitas :grin:
 
-###Receitas:
+### Receitas:
 
 - Strogonoff de Frango
-- Pavê
+- Pavê 
+- Bolo de Cenoura 🥕 
+
+
+
