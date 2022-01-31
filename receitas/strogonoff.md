@@ -1,5 +1,6 @@
-#Strogonoff de Frango :chicken:
-###Ingredientes :yum:
+# Strogonoff de Frango :chicken:
+
+### Ingredientes :yum:
 - 3 peitos de frango cortados em - cubos
 - 1 dente de alho picado
 - sal e pimenta a gosto
@@ -11,7 +12,7 @@
 - 1 copo de cogumelos
 - 1 copo de creme de leite
 - batata palha a gosto
-###Modo de Preparo :plate_with_cutlery:
+### Modo de Preparo :plate_with_cutlery:
 
 1.Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
